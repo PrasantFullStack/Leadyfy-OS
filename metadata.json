@@ -1,0 +1,6 @@
+{
+  "name": "Leadyfy OS",
+  "description": "Modern internal SaaS for UGC and digital marketing agency operations, from client onboarding to delivery and client portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
